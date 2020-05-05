@@ -1,0 +1,3 @@
+Accueil : Titre du site/Menu avec thèmes
+Contenu : Meilleurs jeux/ Jeu de la semaine/Jeu le mieux noté
+footer : nom des créateurs du site
